@@ -1,0 +1,62 @@
+[
+    {
+        "sr": 1,
+        "name": "Dashboard",
+        "rol": "DASHBOARD",
+        "color": "magenta"
+    },
+    {
+        "sr": 2,
+        "name": "Staff",
+        "rol": "STAFF",
+        "color": "geekblue"
+    },
+    {
+        "sr": 3,
+        "name": "User",
+        "rol": "USER",
+        "color": "red"
+    },
+    {
+        "sr": 4,
+        "name": "Product",
+        "rol": "PRODUCT",
+        "color": "volcano"
+    },
+    {
+        "sr": 5,
+        "name": "Pages",
+        "rol": "PAGES",
+        "color": "orange"
+    },
+    {
+        "sr": 6,
+        "name": "Contact",
+        "rol": "CONTACT",
+        "color": "gold"
+    },
+    {
+        "sr": 7,
+        "name": "Faq",
+        "rol": "FAQ",
+        "color": "lime"
+    },
+    {
+        "sr": 10,
+        "name": "Contact-us",
+        "rol": "CONTACT_US",
+        "color": "blue"
+    },
+    {
+        "sr": 8,
+        "name": "Db_Backup",
+        "rol": "DB_BACKUP",
+        "color": "green"
+    },
+    {
+        "sr": 9,
+        "name": "Setting",
+        "rol": "SETTING",
+        "color": "cyan"
+    }
+]
